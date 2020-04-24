@@ -16,7 +16,7 @@ public class BinaryTree {
     public void insert(Scanner sc1){
         this.root=insert(root,sc1);
     }
-    public Node insert(Node node, Scanner sc1){
+    private Node insert(Node node, Scanner sc1){
         if(node==null){
             System.out.println("Enter a value:");
             int val=sc1.nextInt();
@@ -35,7 +35,7 @@ public class BinaryTree {
     public void display(){
         display(root,"");
     }
-    public void display(Node node,String indent){
+    private void display(Node node,String indent){
         if(node==null)
             return;
         System.out.println(indent+node.value);
@@ -49,7 +49,7 @@ public class BinaryTree {
     public int height(){
         return height(root);
     }
-    public int height(Node node){
+    private int height(Node node){
         if(node==null)
             return 0;
         return Math.max(height(node.left),height(node.right))+1;
@@ -57,8 +57,6 @@ public class BinaryTree {
 
     public boolean find(int target){
         return find(root,target);
-
-
     }
 
     private boolean find(Node node, int target) {
@@ -68,5 +66,31 @@ public class BinaryTree {
             return true;
         return find(node.left,target) || find(node.right,target);
 
+    }
+    public int diameter(){
+        return diameter(root);
+    }
+    private int diameter(Node node) {
+        if(node==null)
+            return 0;
+        int current=1+height(node.left)+height(node.right);
+        int max=Math.max(diameter(node.left),diameter(node.right));
+
+        return Math.max(max,current);
+
+    }
+    public void mirror(){
+        mirror(root);
+    }
+    private void mirror(Node node){
+        if(node==null)
+            return;
+
+        //for swapping
+        Node temp=node.left;
+        node.left=node.right;
+        node.right=temp;
+        mirror(node.left);
+        mirror(node.right);
     }
 }

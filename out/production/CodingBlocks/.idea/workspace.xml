@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5280125d-381d-43e6-9191-13898d830823" name="Default Changelist" comment="" />
+    <list default="true" id="5280125d-381d-43e6-9191-13898d830823" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lecture24/BSTClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture24/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture25/Heap_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture25/Heap_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture26/GenericBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture26/GenericClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture27/HashClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture27/HashmapLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture27/HashmapPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture28/HashALClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture28/HashArrayClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture28/HashMapArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture28/HashMapArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture29/AdjacencyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture29/AdjacencyListGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture30/AdjacencyMapClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture30/AdjacencyMapGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture31/DiceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture31/FibDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture31/LCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture31/Mazepath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/IsBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/LeftViewTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/RightViewTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture22/TreesClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture22/TreesClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture23/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture23/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture23/BinaryTreeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture23/BinaryTreeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/TreesPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingBlocks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingBlocks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingBlocks/HackerRank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingBlocks/HackerRank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingBlocks/Lecture22/TreesClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingBlocks/Lecture22/TreesClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingBlocks/Lecture23/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingBlocks/Lecture23/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingBlocks/Lecture23/BinaryTreeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingBlocks/Lecture23/BinaryTreeClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingBlocks/Practice/TreesPractice$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingBlocks/Practice/TreesPractice.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,27 +48,46 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z4quxj8yNt0NsVkMwoURST3bKF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeClient">
-    <configuration name="BinaryTreeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture23.BinaryTreeClient" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lecture26" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HackerRank">
+    <configuration name="DiceCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture31.DiceCount" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture23.*" />
+          <option name="PATTERN" value="Lecture31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -38,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture21.Client" />
+    <configuration name="DiceCountDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.DiceCountDP" />
       <module name="CodingBlocks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture21.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,39 +115,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.LinkedClient" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyClass" />
       <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreesClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture22.TreesClient" />
+    <configuration name="MyFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyFirst" />
       <module name="CodingBlocks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lecture22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryTreeClient" />
-        <item itemvalue="Application.TreesClient" />
-        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.HackerRank" />
-        <item itemvalue="Application.LinkedClient (1)" />
+        <item itemvalue="Application.MyFirst" />
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.DiceCountDP" />
+        <item itemvalue="Application.DiceCount" />
       </list>
     </recent_temporary>
   </component>
@@ -107,43 +152,89 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="691" y="358" width="594" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585211539507">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="691" y="358" width="594" height="398" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1585211539507" />
-    <state x="801" y="265" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1584777526654">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="761" y="250" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1586686718332">
+      <screen x="0" y="27" width="1920" height="988" />
     </state>
+    <state x="761" y="250" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/0.27.1920.988@0.27.1920.988" timestamp="1586686718332" />
     <state x="801" y="265" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584777526654" />
     <state x="699" y="223" width="579" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584249181374">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="699" y="223" width="579" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584249181374" />
-    <state width="1807" height="275" key="GridCell.Tab.0.bottom" timestamp="1585210671339">
+    <state x="590" y="117" width="797" height="880" key="CommitChangelistDialog2" timestamp="1585372294153">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585210671339" />
-    <state width="1807" height="275" key="GridCell.Tab.0.center" timestamp="1585210671338">
+    <state x="590" y="117" width="797" height="880" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585372294153" />
+    <state x="243" y="121" width="1482" height="879" key="DiffContextDialog" timestamp="1585372249148">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585210671338" />
-    <state width="1807" height="275" key="GridCell.Tab.0.left" timestamp="1585210671338">
+    <state x="243" y="121" width="1482" height="879" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585372249148" />
+    <state width="1874" height="253" key="GridCell.Tab.0.bottom" timestamp="1587456050888">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="253" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1587456050888" />
+    <state width="1807" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585474509070" />
+    <state width="1874" height="253" key="GridCell.Tab.0.center" timestamp="1587456050888">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="253" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1587456050888" />
+    <state width="1807" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585474509069" />
+    <state width="1874" height="253" key="GridCell.Tab.0.left" timestamp="1587456050888">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="253" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1587456050888" />
+    <state width="1807" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585474509069" />
+    <state width="1874" height="253" key="GridCell.Tab.0.right" timestamp="1587456050888">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="253" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1587456050888" />
+    <state width="1807" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585474509069" />
+    <state width="1874" height="314" key="GridCell.Tab.1.bottom" timestamp="1587281125930">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="314" key="GridCell.Tab.1.bottom/0.27.1920.988@0.27.1920.988" timestamp="1587281125930" />
+    <state width="1874" height="314" key="GridCell.Tab.1.center" timestamp="1587281125930">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="314" key="GridCell.Tab.1.center/0.27.1920.988@0.27.1920.988" timestamp="1587281125930" />
+    <state width="1874" height="314" key="GridCell.Tab.1.left" timestamp="1587281125930">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="314" key="GridCell.Tab.1.left/0.27.1920.988@0.27.1920.988" timestamp="1587281125930" />
+    <state width="1874" height="314" key="GridCell.Tab.1.right" timestamp="1587281125930">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="314" key="GridCell.Tab.1.right/0.27.1920.988@0.27.1920.988" timestamp="1587281125930" />
+    <state x="756" y="239" width="455" height="643" key="RollbackChangesDialog" timestamp="1585372236636">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585210671338" />
-    <state width="1807" height="275" key="GridCell.Tab.0.right" timestamp="1585210671339">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="756" y="239" width="455" height="643" key="RollbackChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585372236636" />
+    <state x="430" y="178" width="1059" height="737" key="SettingsEditor" timestamp="1586969679060">
+      <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1807" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585210671339" />
-    <state x="482" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1584253667916">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="430" y="178" width="1059" height="737" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1586969679060" />
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585469405252" />
+    <state x="603" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1586677400651">
+      <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="482" y="188" width="1022" height="737" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1584253667916" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1585204481657">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state x="603" y="358" key="com.intellij.ide.util.TipDialog/0.27.1920.988@0.27.1920.988" timestamp="1586677400651" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585494152514" />
+    <state x="612" y="414" width="686" height="221" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587280390273">
+      <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585204481657" />
+    <state x="612" y="414" width="686" height="221" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1920.988@0.27.1920.988" timestamp="1587280390273" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585989264527">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.27.1920.988@0.27.1920.988" timestamp="1585989264527" />
     <state x="302" y="154" width="1372" height="806" key="new project wizard" timestamp="1584250633027">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

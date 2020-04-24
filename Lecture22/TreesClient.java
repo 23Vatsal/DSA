@@ -11,6 +11,6 @@ public class TreesClient {
         System.out.println("Number of nodes are: " +gt.count());
         //System.out.println("Max. value in tree is: " +gt.max());
         //gt.levelOrder();
-        gt.atLevel(1);
+        gt.atLevel(2);
     }
 }

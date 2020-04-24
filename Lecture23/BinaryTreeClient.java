@@ -20,6 +20,10 @@ public class BinaryTreeClient {
         bt.display();
         System.out.println("Height is: "+bt.height());
         System.out.println("Found: "+bt.find(5));
+        System.out.println("Diameter is: "+bt.diameter());
+        bt.mirror();
+        System.out.println("Mirrored tree is:\n");
+        bt.display();
     }
 
 
